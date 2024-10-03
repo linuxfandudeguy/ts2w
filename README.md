@@ -8,3 +8,5 @@ cd ts2w
 edit `src/index.ts` in order to get a different output
 
 once you are done editing run `npm run build`
+
+it should generate a `bundle.js` in the `dist` directory
